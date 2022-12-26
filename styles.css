@@ -1,0 +1,14 @@
+h1 {
+    color: brown;
+    background-color: blue;
+}
+
+p {
+    color: blueviolet;
+    size: 20px;
+}
+
+button {
+    background-color: aqua;
+    border-color: blue;
+}
